@@ -1,0 +1,28 @@
+@import "variables";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: $light-blue;
+  -webkit-overflow-scrolling: touch;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+::selection {
+  background: $highlight; /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+  background: $highlight; /* Gecko Browsers */
+}

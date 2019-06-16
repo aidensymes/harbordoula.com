@@ -1,0 +1,36 @@
+// Wrappers
+/////////////////////////////////////////////////////
+.wrapper {
+  width: 90%;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: $gutter;
+  grid-row-gap : $gutter;
+  @include break-at('small') {
+    grid-column-gap: $gutter-half;
+  }
+}
+
+// Grid
+/////////////////////////////////////////////////////
+.col-4 {
+  grid-column: span 4;
+  &-right {
+    grid-column: 9 / span 4;
+  }
+  &-center {
+    grid-column: 5 / span 4;
+  }
+}
+
+.col-8 {
+  grid-column: span 8;
+}
+
+.col-12 {
+  grid-column: span 12;
+}
