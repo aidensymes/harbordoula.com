@@ -1,0 +1,81 @@
+<body>
+
+  <header>
+    <div class="header__title">
+      <h1>
+        Harbor Doula Care
+      </h1>
+    </div>
+    <div class="header__blurb">
+      <h2>
+        {{page.blurb}}
+      </h2>
+    </div>
+  </header>
+
+  <section class="about">
+    <div class="section__title">
+      <h1>
+        About
+      </h1>
+    </div>
+    <div class="section__blurb">
+      <p>
+        {{page.about}}
+      </p>
+    </div>
+    <div class="section__img">
+      <img src="{{page.headshot-image}}">
+    </div>
+    <div class="testimonials">
+      {% for testimonial in page.testimonials %}
+        <div class="testimonial">
+          <h2>
+            {{testimonial.quote}}
+          </h2>
+          <p>
+            {{testimonial.person}}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="services">
+    <div class="section__title">
+      <h1>
+        Services
+      </h1>
+    </div>
+    <div class="section__blurb">
+      <p>
+        {{page.about}}
+      </p>
+      {% for service in page.services %}
+        <h2>
+          {{service}}
+        </h2>
+      {% endfor %}
+    </div>
+    <div class="section__img">
+      <img src="{{page.service-image}}">
+    </div>
+  </section>
+
+  <footer>
+    <div class="section__title">
+      <h1>
+        Contact
+      </h1>
+    </div>
+    <div class="section__blurb">
+      <p>
+        {{page.email}}
+      </p>
+      <p>
+        {{page.phone}}
+      </p>
+    </div>
+  </footer>
+
+</body>
