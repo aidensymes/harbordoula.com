@@ -2,7 +2,6 @@
 title: Home
 date: 2019-06-16 18:53:00 Z
 permalink: "/"
-layout: home
 blurb: A brief little blurb about the things you do and how great you are.
 about: Basically an about section. Trust me with your baby. I do not eat them. The
   flavor is incredible, but I am strong and so I resist the desire to feast upon the
@@ -27,6 +26,7 @@ services:
 - Service 3
 - Service 4
 - Service 5
+services-image: 
 email: name@email.com
 phone: 123-4456-7890
 ---
