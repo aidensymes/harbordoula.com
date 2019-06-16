@@ -34,3 +34,56 @@
 .col-12 {
   grid-column: span 12;
 }
+
+// Rule
+/////////////////////////////////////////////////////
+.rule {
+  padding-top: $gutter;
+  border-top: 4px solid $blue;
+  &-light {
+    padding-top: $gutter;
+    border-top: 4px solid $light-blue;
+  }
+  &-thin {
+    padding-top: $gutter;
+    border-top: 2px solid $blue;
+  }
+}
+
+// Color
+/////////////////////////////////////////////////////
+.filled {
+  background-color: $blue;
+}
+
+// General Structure
+/////////////////////////////////////////////////////
+section, footer {
+  margin-top: $gutter-4;
+}
+
+header {
+  margin-top: $gutter-2;
+}
+
+// About
+/////////////////////////////////////////////////////
+.testimonial {
+  padding-top: $gutter;
+  margin-top: $gutter-4;
+  p {
+    text-align: right;
+  }
+}
+
+// Services
+/////////////////////////////////////////////////////
+.services__list {
+  margin-top: $gutter;
+}
+
+// Contact
+/////////////////////////////////////////////////////
+.contact {
+  padding: $gutter-2 0 $gutter-4 0;
+}

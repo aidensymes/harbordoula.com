@@ -1,16 +1,17 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
-  {% include header.html %}
+  {% include head.html %}
 
   <body>
 
     <header class="wrapper">
-      <div class="header__title">
+      <div class="header__title col-8 rule">
         <h1>
           Harbor Doula Care
         </h1>
       </div>
-      <div class="header__blurb">
+      <div class="header__blurb col-4 rule">
         <h2>
           {{page.blurb}}
         </h2>
@@ -18,67 +19,69 @@
     </header>
 
     <section class="about wrapper">
-      <div class="section__title">
+      <div class="section__title col-4 rule">
         <h1>
           About
         </h1>
       </div>
-      <div class="section__blurb">
+      <div class="section__blurb col-4 rule">
         <p>
           {{page.about}}
         </p>
       </div>
-      <div class="section__img">
+      <div class="section__img col-4">
         <img src="{{page.headshot-image}}">
       </div>
-      <div class="testimonials">
-        {% for testimonial in page.testimonials %}
-          <div class="testimonial">
-            <h2>
-              {{testimonial.quote}}
-            </h2>
-            <p>
-              {{testimonial.person}}
-            </p>
-          </div>
-        {% endfor %}
-      </div>
+      {% for testimonial in page.testimonials %}
+        <div class="testimonial col-4 rule-thin">
+          <h2>
+            {{testimonial.quote}}
+          </h2>
+          <p>
+            {{testimonial.person}}
+          </p>
+        </div>
+      {% endfor %}
     </section>
 
     <section class="services wrapper">
-      <div class="section__title">
+      <div class="section__title col-4 rule">
         <h1>
           Services
         </h1>
       </div>
-      <div class="section__blurb">
+      <div class="section__blurb col-4 rule">
         <p>
           {{page.about}}
         </p>
-        {% for service in page.services %}
-          <h2>
-            {{service}}
-          </h2>
-        {% endfor %}
+        <div class="services__list">
+          {% for service in page.services %}
+            <h2>
+              {{service}}
+            </h2>
+          {% endfor %}
+        </div>
       </div>
-      <div class="section__img">
+      <div class="section__img col-4">
         <img src="{{page.service-image}}">
       </div>
     </section>
 
-    <footer class="wrapper">
-      <div class="section__title">
-        <h1>
-          Contact
-        </h1>
-      </div>
-      <div class="section__blurb">
-        <p>
-          {{page.email}}
-        </p>
-        <p>
-          {{page.phone}}
-        </p>
+    <footer class="filled">
+      <div class="contact wrapper">
+        <div class="section__title col-4 rule-light">
+          <h1 class="light">
+            Contact
+          </h1>
+        </div>
+        <div class="section__blurb col-4 rule-light">
+          <p class="light">
+            {{page.email}}
+          </p>
+          <p>
+            {{page.phone}}
+          </p>
+        </div>
       </div>
     </footer>
 
