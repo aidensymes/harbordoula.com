@@ -35,21 +35,6 @@
   grid-column: span 12;
 }
 
-// Rule
-/////////////////////////////////////////////////////
-.rule {
-  padding-top: $gutter;
-  border-top: 4px solid $blue;
-  &-light {
-    padding-top: $gutter;
-    border-top: 4px solid $light-blue;
-  }
-  &-thin {
-    padding-top: $gutter;
-    border-top: 2px solid $blue;
-  }
-}
-
 // Color
 /////////////////////////////////////////////////////
 .filled {
@@ -66,11 +51,22 @@ header {
   margin-top: $gutter-2;
 }
 
+.header__title, .header__blurb, .section__title, .section__blurb {
+  @include rule;
+}
+
+.header__blurb, .section__blurb {
+  @include break-at('small') {
+    @include rule-none;
+  }
+}
+
 // About
 /////////////////////////////////////////////////////
 .testimonial {
   padding-top: $gutter;
   margin-top: $gutter-4;
+  @include rule-thin;
   p {
     text-align: right;
   }
@@ -86,4 +82,7 @@ header {
 /////////////////////////////////////////////////////
 .contact {
   padding: $gutter-2 0 $gutter-4 0;
+  .section__title, .section__blurb {
+      @include rule-light;
+  }
 }

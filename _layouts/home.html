@@ -6,25 +6,28 @@
   <body>
 
     <header class="wrapper">
-      <div class="header__title col-8 rule">
+      <div class="header__title col-8">
         <h1>
           Harbor Doula Care
         </h1>
       </div>
-      <div class="header__blurb col-4 rule">
+      <div class="header__blurb col-4">
         <h2>
           {{page.blurb}}
         </h2>
       </div>
     </header>
 
+    <div id="waves__canvas">
+    </div>
+
     <section class="about wrapper">
-      <div class="section__title col-4 rule">
+      <div class="section__title col-4">
         <h1>
           About
         </h1>
       </div>
-      <div class="section__blurb col-4 rule">
+      <div class="section__blurb col-4">
         <p>
           {{page.about}}
         </p>
@@ -33,7 +36,7 @@
         <img src="{{page.headshot-image}}">
       </div>
       {% for testimonial in page.testimonials %}
-        <div class="testimonial col-4 rule-thin">
+        <div class="testimonial col-4">
           <h2>
             {{testimonial.quote}}
           </h2>
@@ -45,12 +48,12 @@
     </section>
 
     <section class="services wrapper">
-      <div class="section__title col-4 rule">
+      <div class="section__title col-4">
         <h1>
           Services
         </h1>
       </div>
-      <div class="section__blurb col-4 rule">
+      <div class="section__blurb col-4">
         <p>
           {{page.about}}
         </p>
@@ -63,18 +66,18 @@
         </div>
       </div>
       <div class="section__img col-4">
-        <img src="{{page.service-image}}">
+        <img src="{{page.services-image}}">
       </div>
     </section>
 
     <footer class="filled">
       <div class="contact wrapper">
-        <div class="section__title col-4 rule-light">
+        <div class="section__title col-4">
           <h1 class="light">
             Contact
           </h1>
         </div>
-        <div class="section__blurb col-4 rule-light">
+        <div class="section__blurb col-4">
           <p class="light">
             {{page.email}}
           </p>
