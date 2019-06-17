@@ -3,10 +3,7 @@ title: Home
 date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: A brief little blurb about the things you do and how great you are.
-about: Basically an about section. Trust me with your baby. I do not eat them. The
-  flavor is incredible, but I am strong and so I resist the desire to feast upon the
-  infant flesh. Instead, I care for the baby - thus sacrificing my own hunger for
-  your sake.
+about: foo bar.
 headshot-image: "/uploads/1.jpg"
 testimonials:
 - quote: "“A really great quote from a past client that like you a lot and think that
