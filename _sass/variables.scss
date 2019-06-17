@@ -51,12 +51,13 @@ $gutter-3: $gutter*2;
 $gutter-4: $gutter*4;
 $gutter-6: $gutter*6;
 $gutter-8: $gutter*8;
+$gutter-10: $gutter*10;
 
 // Breakpoints
 /////////////////////////////////////////////////////
 $breakpoints: (
   'small': 550px,
-  'medium':  950px,
+  'medium':  1050px,
   'large': 1440px
 ) !default;
 

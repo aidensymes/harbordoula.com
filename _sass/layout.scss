@@ -49,33 +49,77 @@ section, footer {
 
 header {
   margin-top: $gutter-2;
+  z-index: 999;
+  @include break-at('small') {
+    margin-top: $gutter;
+  }
 }
 
 .header__title, .header__blurb, .section__title, .section__blurb {
   @include rule;
+  @include break-at('small') {
+    grid-column: span 12;
+  }
 }
 
 .header__blurb, .section__blurb {
   @include break-at('small') {
     @include rule-none;
+    padding-top: 0;
+  }
+}
+
+.section__img {
+  @include break-at('small') {
+    grid-column: span 12;
   }
 }
 
 // Waves
 /////////////////////////////////////////////////////
 .waves__wrapper {
-  width: 100%;
+  position: absolute;
   overflow-x: hidden;
+  top: 0;
+  bottom: -50px;
+  left: 0;
+  right: 0;
+  @include break-at('small') {
+    position: relative;
+    width: 100%;
+    margin-top: -100px;
+  }
+}
+
+#waves__canvas {
+  position: absolute;
+  bottom: 0;
+  @include break-at('small') {
+    position: relative;
+  }
 }
 
 // About
 /////////////////////////////////////////////////////
+.about {
+  margin-top: 100vh;
+  @include break-at('small') {
+    margin-top: 0;
+  }
+}
+
 .testimonial {
   padding-top: $gutter;
   margin-top: $gutter-4;
+  z-index: 0;
   @include rule-thin;
   p {
     text-align: right;
+  }
+  @include break-at('small') {
+    grid-column: span 12;
+    padding-top: $gutter-half;
+    margin-top: $gutter;
   }
 }
 
@@ -91,5 +135,11 @@ header {
   padding: $gutter-2 0 $gutter-4 0;
   .section__title, .section__blurb {
       @include rule-light;
+  }
+  .section__blurb {
+    @include break-at('small') {
+      @include rule-none;
+      padding-top: 0;
+    }
   }
 }

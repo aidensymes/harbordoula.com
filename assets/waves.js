@@ -3,7 +3,7 @@ let ylower = 0;    // Lower limit of Y noise
 let yupper;        // Upper limit of y noise
 let xlower = 0;    // Lower limit of X noise
 let xupper;        // Upper limit of X noise
-var xspacing = 75; // Distance between each horizontal location
+var xspacing;      // Distance between each horizontal location
 var w;             // Width of entire wave
 var theta;         // Start angle at 0
 var amplitude;     // Height of wave
@@ -19,22 +19,23 @@ $(document).ready(function() {
 });
 
 function setup() {
-  canvas = createCanvas($(window).width() * 1.1, $(window).height() * .75);
+  canvas = createCanvas($(window).width() * 1.2, 450);
   canvas.parent('waves__canvas');
 
   yoff = 0;
   yupper = $(window).width() / 25;
   xupper = $(window).width() / 25;
+  xspacing = $(window).width() / 25;
   w = width + xspacing;
   theta = 0;
   amplitude = $(window).width() / 65;
-  period = $(window).width();
+  period = $(window).width() * 1.1;
   dx = (TWO_PI / period) * xspacing;
   yvalues = new Array(floor(w / xspacing));
-  numLines = $(window).height() / 125;
+  numLines = $(window).height() / 200;
 
   stroke('#134E6C');
-  strokeWeight(floor(amplitude / 1.5));
+  strokeWeight(amplitude / 1.25);
   noFill();
 }
 
@@ -53,7 +54,7 @@ function render() {
       let ynoise = map(noise(xoff, yoff), 0, 1, ylower, yupper);
       let xnoise = map(noise(xoff, yoff), 0, 1, xlower, xupper);
       yvalues[i] = sin(x) * amplitude + ynoise;
-      vertex(i * xspacing - xnoise, height - ($(window).width() / 20) - j * (amplitude * 1.75) + yvalues[i]);
+      vertex(i * xspacing - xnoise, height - 100 - j * (amplitude * 1.75) + yvalues[i]);
       xoff += 0.05;
       x += dx;
     }

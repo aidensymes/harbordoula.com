@@ -11,6 +11,9 @@ h1 {
   font-size: 90px;
   line-height: 1;
   letter-spacing: -1px;
+  @include break-at('large') {
+    font-size: 60px;
+  }
 }
 
 h2 {
@@ -22,6 +25,9 @@ p {
   font-size: 18px;
   line-height: 20px;
   margin-top: $gutter-half;
+  @include break-at('small') {
+    margin-top: 0;
+  }
 }
 
 .light {
