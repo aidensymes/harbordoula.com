@@ -5,7 +5,8 @@ permalink: "/"
 blurb: 
 about: "har·bor\n/ˈhärbər/\n\nnoun\n\na place on the coast where vessels may find
   shelter, especially one protected from rough water by piers, jetties, and other
-  artificial structures.\n\nWelcome!\nI'm Jennifer Symes, DONA trained Birth and Postpartum
+  artificial structures.\n\nWelcome!\nI hope you find a safe place to find your voice
+  and strength at Harboe Doula Care. I'm Jennifer Symes, DONA trained Birth and Postpartum
   Doula. My goal is to create a supportive, safe space for birthing families to find
   shelter. Pregnancy, childbirth and the first newborn weeks are different for everyone.
   As your doula, I can help you find the path that works best for you and your baby.
