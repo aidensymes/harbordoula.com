@@ -2,7 +2,7 @@
 title: Home
 date: 2019-06-16 18:53:00 Z
 permalink: "/"
-blurb: Caring Support Before, During and After Your Baby's Birth
+blurb: 'Caring Support Before, During and After Your Baby''s Birth '
 about: "har·bor\n/ˈhärbər/\n\nnoun\n\na place on the coast where vessels may find
   shelter, especially one protected from rough water by piers, jetties, and other
   artificial structures.\n\nWelcome!\nI'm Jennifer Symes, DONA trained Birth and Postpartum
@@ -64,14 +64,30 @@ testimonials:
   person: "— Molly K."
 services-blurb: Prenatal, Birth and Postpartum Care
 services:
-- "Antipartum \nWhy hire a Doula for prenatal support?\nMeeting with me prenatally
+- "Antepartum \nWhy hire a Doula for prenatal support?\nMeeting with me prenatally
   can help prepare you for the birth of your child. We will tailor a program to your
   needs that could include education about childbirth and childcare, emotional preparation,
   household organization or physical and physiological support. Anitpartum doula care
   is essential for parents if medical bed-rest is recommended. This type of support
-  could include errands, light meal preparation and other physical comfort measures."
-- Labor and Birth Support
-- Postpartum
+  could include errands, light meal preparation and other physical comfort measures.
+  This service is provided on an hourly basis and can include as many or as few visits
+  as needed for your unique situation."
+- "Labor and Birth Support\nAs your Birth Doula, I will meet with you and anyone who
+  will accompany you into labor. Together, we will explore your needs and wishes for
+  your birth experience. These prenatal sessions will help you create a birth plan
+  and an environment that is empowering and satisfying.  Outside of these meetings,
+  I am available for phone, text or email questions. I will on-call 24 hours a day
+  when you reach the 38th week of your pregnancy. I will join you at your home, hospital
+  or birth center when you are ready for hands-on support and will stay with you until
+  you are settled after the birth of your baby (or babies). Labor support for your
+  partner or other companion is also provided and is an important part of my role
+  as a Birth Doula. This team approach is meant to give the birthing person the best
+  possible outcome. "
+- "Postpartum\nOffering supportive care for new parents in your home while you navigate
+  the challenges of those first weeks with a new baby. My role varies with each family's
+  needs and can include education, physical comfort during recovery, emotional support,
+  household organization, light meal preparation and newborn resources. These hourly
+  visits are designed to meet the unique needs of each family.  "
 - Service 4
 - Service 5
 services-image: "/uploads/Newborn%20_%20Ord%20_%20Flickr.html"
