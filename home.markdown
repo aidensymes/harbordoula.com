@@ -2,7 +2,8 @@
 title: Home
 date: 2019-06-16 18:53:00 Z
 permalink: "/"
-blurb: 'Caring Support Before, During and After Your Baby''s Birth '
+blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
+  Northshore and Southern NH.
 about: "har·bor\n/ˈhärbər/\n\nnoun\n\na place on the coast where vessels may find
   shelter, especially one protected from rough water by piers, jetties, and other
   artificial structures.\n\nWelcome!\nI'm Jennifer Symes, DONA trained Birth and Postpartum
