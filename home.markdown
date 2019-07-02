@@ -3,20 +3,26 @@ title: Home
 date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
-  Northshore and Southern NH.
+  Northeast Massachusetts and Southern NH.
 about: "har·bor\n/ˈhärbər/\n\nnoun\n\na place on the coast where vessels may find
-  shelter, especially one protected from rough water by piers, jetties, and other
-  artificial structures.\n\nWelcome!\nI'm Jennifer Symes, DONA trained Birth and Postpartum
-  Doula. My goal is to create a supportive, safe shelter for birthing families. Pregnancy,
-  childbirth and the first newborn weeks are different for everyone. As your doula,
-  I can help you find the path that works best for you and your baby. I provide non-judgmental
-  care, education, hands-on support and encouragement. My background in Early Childhood
-  Education and Psychology, as well as my experience as a parent to four amazing children,
-  lead me to doula work. I am passionate about the rights and needs of birthing people
-  and for this reason, I limit the number of clients I take to ensure that I have
-  the time needed to spend with each. My skills include breastfeeding support, Infant
-  and Adult CPR and First Aid Certification.\n\nPlease, feel free to reach out to
-  me so we can discuss your individual needs and wishes. "
+  shelter, especially one protected from rough water \n\nWelcome!\nI'm Jennifer Symes,
+  DONA trained Birth and Postpartum Doula. My goal is to create a supportive, safe
+  shelter for families as they bring a new baby in the world. Pregnancy, childbirth
+  and the newborn weeks are different for everyone. As your doula, I can help you
+  find the path that works best for you and your baby. I provide non-judgmental care,
+  education, hands-on support and encouragement for all members of your family and
+  birth team. While my focus may be on the birthing person person, I am always aware
+  of the stress that partners may feel and offer them support as well.\nMy background
+  in Early Childhood Education and Psychology, as well as my experience as a parent
+  to four amazing children, lead me to doula work. I am passionate about the rights
+  and needs of birthing people and for this reason, I limit the number of clients
+  I take to ensure that I have the time needed to spend with you. \nMy philosophy
+  is simple: your birth, your choices. I will give you the resources you need to make
+  informed decisions and the tools you need to implement those plans. You will find
+  the most support and satisfaction with a solid team that includes your support people
+  and healthcare providers. \nMy skills include breastfeeding support, Infant and
+  Adult CPR and First Aid Certification.\n\nPlease, feel free to reach out to me so
+  we can discuss your individual needs and wishes. "
 headshot-image: "/uploads/julie-johnson--MFnOGqXMwY-unsplash.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
