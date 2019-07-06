@@ -23,7 +23,7 @@ about: "har·bor\n/ˈhärbər/\n\nnoun\n\na place on the coast where vessels may
   and healthcare providers. \nMy skills include breastfeeding support, Infant and
   Adult CPR and First Aid Certification.\n\nPlease, feel free to reach out to me so
   we can discuss your individual needs and wishes. "
-headshot-image: "/uploads/julie-johnson--MFnOGqXMwY-unsplash.jpg"
+headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
     age children, our lives were already hectic before the arrival of baby number
@@ -95,11 +95,12 @@ services:
   needs and can include education, physical comfort during recovery, emotional support,
   household organization, light meal preparation and newborn resources. These hourly
   visits are designed to meet the unique needs of each family.  "
-- Service 4
+- Key 1: 
 - Service 5
-services-image: "/uploads/Newborn%20_%20Ord%20_%20Flickr.html"
+services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
+Field name: 
 layout: home
 ---
 
