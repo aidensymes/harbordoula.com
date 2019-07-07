@@ -4,25 +4,30 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
   Northeast Massachusetts and Southern NH.
-about: "har·bor\n/ˈhärbər/\n\nnoun\n\na place on the coast where vessels may find
-  shelter, especially one protected from rough water \n\nWelcome!\nI'm Jennifer Symes,
-  DONA trained Birth and Postpartum Doula. My goal is to create a supportive, safe
-  shelter for families as they bring a new baby in the world. Pregnancy, childbirth
-  and the newborn weeks are different for everyone. As your doula, I can help you
-  find the path that works best for you and your baby. I provide non-judgmental care,
-  education, hands-on support and encouragement for all members of your family and
-  birth team. While my focus may be on the birthing person person, I am always aware
-  of the stress that partners may feel and offer them support as well.\nMy background
-  in Early Childhood Education and Psychology, as well as my experience as a parent
-  to four amazing children, lead me to doula work. I am passionate about the rights
-  and needs of birthing people and for this reason, I limit the number of clients
-  I take to ensure that I have the time needed to spend with you. \nMy philosophy
-  is simple: your birth, your choices. I will give you the resources you need to make
-  informed decisions and the tools you need to implement those plans. You will find
-  the most support and satisfaction with a solid team that includes your support people
-  and healthcare providers. \nMy skills include breastfeeding support, Infant and
-  Adult CPR and First Aid Certification.\n\nPlease, feel free to reach out to me so
-  we can discuss your individual needs and wishes. "
+about: "Welcome!\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula. My
+  goal is to create a supportive, safe shelter for families as they bring a new baby
+  in the world. Pregnancy, childbirth and the newborn weeks come with great joy, transitions
+  and challenges. As your Doula, I can help you find the path that works best for
+  you and your baby. I provide non-judgmental care, education, hands-on support and
+  encouragement for all members of your family and birth team. \n\nAfter earning my
+  BA in Psychology and Human Services, I worked with teens and slowly made my way
+  to infants. My background in Early Childhood Education began as a preschool teacher
+  and progressed to infants, toddlers and many years as a Childcare Center Director
+  of several large centers. As my four children grew, I began the search for a new
+  career and that lead me to doula work. I am proud to volunteer for the Connecting
+  Young Moms program as a Birth Doula and provide antipartum care for at-risk expecting
+  parents through the Pettaway Pursuit Foundation. \n\n My background in Early Childhood
+  Education and Psychology, as well as my experience as a parent to four amazing children,
+  lead me to Doula work. I am passionate about the rights and needs of birthing people
+  and for this reason, I limit the number of clients I take to ensure that I have
+  the time needed to spend with you. \nMy philosophy is simple: your birth, your choices.
+  I will give you the resources you need to make informed decisions and the tools
+  you need to implement those plans. You will find the most support and satisfaction
+  with a solid team that includes your support people and healthcare providers. \n\nIn
+  addition to the DONA training, I have completed workshops in  breastfeeding, pelvic
+  floor health, trauma informed birth support and have current Infant and Adult CPR
+  and First Aid Certification.\n\nPlease, feel free to reach out to me so we can discuss
+  your individual needs and wishes. "
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
@@ -74,28 +79,37 @@ services:
 - "Antepartum \nWhy hire a Doula for prenatal support?\nMeeting with me prenatally
   can help prepare you for the birth of your child. We will tailor a program to your
   needs that could include education about childbirth and childcare, emotional preparation,
-  household organization or physical and physiological support. Anitpartum doula care
-  is essential for parents if medical bed-rest is recommended. This type of support
-  could include errands, light meal preparation and other physical comfort measures.
-  This service is provided on an hourly basis and can include as many or as few visits
-  as needed for your unique situation."
-- "Labor and Birth Support\nAs your Birth Doula, I will meet with you and anyone who
-  will accompany you into labor. Together, we will explore your needs and wishes for
-  your birth experience. These prenatal sessions will help you create a birth plan
-  and an environment that is empowering and satisfying.  Outside of these meetings,
-  I am available for phone, text or email questions. I will on-call 24 hours a day
-  when you reach the 38th week of your pregnancy. I will join you at your home, hospital
-  or birth center when you are ready for hands-on support and will stay with you until
-  you are settled after the birth of your baby (or babies). Labor support for your
-  partner or other companion is also provided and is an important part of my role
-  as a Birth Doula. This team approach is meant to give the birthing person the best
-  possible outcome. "
-- "Postpartum\nOffering supportive care for new parents in your home while you navigate
-  the challenges of those first weeks with a new baby. My role varies with your needs
-  and can include education, physical comfort during recovery, emotional support,
-  household organization, light meal preparation and newborn resources. I can help
-  you get things done around the house, accompany you to an appointment or maybe you
-  just need a nap or a shower. These hourly visits are designed to meet the unique
+  household organization or physical and physiological support.  If you are anxious
+  about labor or would just like more preparation, this may be what you need. \nAnitpartum
+  doula care is essential for parents if medical bed-rest is recommended. This type
+  of support could include errands, light meal preparation and other physical comfort
+  measures. \nThis service is provided on an hourly basis and can include as many
+  or as few visits as needed for your unique situation."
+- "Labor and Birth Support\nStudies show that having a Doula has many benefits, such
+  as a more positive birth experience, lower Cesarean rates, shorter labors and less
+  medications, including  those to induce labor. \nAs your Birth Doula, I provide
+  continuous support to you as you bring your baby into the world. I will meet with
+  you and anyone who will accompany you into labor prenatally. Together, we will explore
+  your needs and wishes for your birth experience. These prenatal sessions will help
+  you create your birth preferences and an environment that is empowering and satisfying,
+  as well as, provided hands-on preparation for your labor.  Outside of these meetings,
+  I am available for phone, text or email questions anytime and will be on-call 24
+  hours a day when you reach the 38th week of your pregnancy. I will join you at your
+  home, hospital or birth center when you are ready and will stay with you through
+  your labor,the birth and until you are settled after the birth of your baby (or
+  babies). I will plan to see you for a postpartum visit within a few days. Labor
+  support for your partner or other companion is provided as an important part of
+  my role as a Birth Doula. This team approach is meant to give the birthing person
+  the best possible outcome.  \nBirth doula care is offered as a package including
+  prenatal meetings, dedicated on-call period, continuous labor support and postpartum
+  visit.  "
+- "Postpartum\nCare, when you need it most.\nOffering supportive care for new parents
+  in your home while you navigate the first weeks with a new baby. My role varies
+  with your needs and can include education, physical comfort during recovery, emotional
+  support, household organization, light meal preparation, baby feeding and newborn
+  resources. I can help you with tasks around the house, accompany you to an appointment
+  or ensure that you get that much needed nap or a shower. Let's talk about your needs
+  and come up with a solution.\nThese hourly visits are designed to meet the unique
   needs of each family.  "
 - Key 1: 
 - Service 5
