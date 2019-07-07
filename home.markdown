@@ -91,10 +91,12 @@ services:
   as a Birth Doula. This team approach is meant to give the birthing person the best
   possible outcome. "
 - "Postpartum\nOffering supportive care for new parents in your home while you navigate
-  the challenges of those first weeks with a new baby. My role varies with each family's
-  needs and can include education, physical comfort during recovery, emotional support,
-  household organization, light meal preparation and newborn resources. These hourly
-  visits are designed to meet the unique needs of each family.  "
+  the challenges of those first weeks with a new baby. My role varies with your needs
+  and can include education, physical comfort during recovery, emotional support,
+  household organization, light meal preparation and newborn resources. I can help
+  you get things done around the house, accompany you to an appointment or maybe you
+  just need a nap or a shower. These hourly visits are designed to meet the unique
+  needs of each family.  "
 - Key 1: 
 - Service 5
 services-image: "/uploads/willamina.jen.jpg"
