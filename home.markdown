@@ -9,25 +9,27 @@ about: "Welcome!\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula. M
   in the world. Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find the path that works best for
   you and your baby. I provide non-judgmental care, education, hands-on support and
-  encouragement for all members of your family and birth team. \n\nAfter earning my
-  BA in Psychology and Human Services, I worked with teens and slowly made my way
-  to infants. My background in Early Childhood Education began as a preschool teacher
-  and progressed to infants, toddlers and many years as a Childcare Center Director
-  of several large centers. As my four children grew, I began the search for a new
-  career and that lead me to doula work. I am proud to volunteer for the Connecting
-  Young Moms program as a Birth Doula and provide antipartum care for at-risk expecting
-  parents through the Pettaway Pursuit Foundation. \n\n My background in Early Childhood
-  Education and Psychology, as well as my experience as a parent to four amazing children,
-  lead me to Doula work. I am passionate about the rights and needs of birthing people
-  and for this reason, I limit the number of clients I take to ensure that I have
-  the time needed to spend with you. \nMy philosophy is simple: your birth, your choices.
-  I will give you the resources you need to make informed decisions and the tools
-  you need to implement those plans. You will find the most support and satisfaction
-  with a solid team that includes your support people and healthcare providers. \n\nIn
-  addition to the DONA training, I have completed workshops in  breastfeeding, pelvic
-  floor health, trauma informed birth support and have current Infant and Adult CPR
-  and First Aid Certification.\n\nPlease, feel free to reach out to me so we can discuss
-  your individual needs and wishes. "
+  encouragement for all members of your family and birth team. \n\nI hold a Bachelor's
+  degree in Psychology and Human Services. Most of my professional experience is in
+  Early Childhood Education.\n\nAfter earning my BA in Psychology and Human Services,
+  I worked with teens and slowly made my way to infants. My background in Early Childhood
+  Education began as a preschool teacher and progressed to infants, toddlers and many
+  years as a Childcare Center Director of several large centers. As my four children
+  grew, I began the search for a new career and that lead me to doula work. I am proud
+  to volunteer for the Connecting Young Moms program as a Birth Doula and provide
+  antipartum care for at-risk expecting parents through the Pettaway Pursuit Foundation.
+  \n\n My background in Early Childhood Education and Psychology, as well as my experience
+  as a parent to four amazing children, lead me to Doula work. I am passionate about
+  the rights and needs of birthing people and for this reason, I limit the number
+  of clients I take to ensure that I have the time needed to spend with you. \nMy
+  philosophy is simple: your birth, your choices. I will give you the resources you
+  need to make informed decisions and the tools to implement those plans. You will
+  find the most support and satisfaction with a solid team that includes your support
+  people and healthcare providers. \n\nIn addition to the DONA Birth and Postpartum
+  certification training, I have completed workshops in childbirth education, breastfeeding,
+  pelvic floor health, trauma informed birth support and hold current Infant and Adult
+  CPR and First Aid Certification.\n\nPlease, feel free to reach out to me so we can
+  discuss your individual needs and wishes. "
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
