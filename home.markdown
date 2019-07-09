@@ -45,9 +45,9 @@ testimonials:
     I’m so glad that we had Jennifer’s loving help to welcome our new baby!
   person: "— Emily S."
 - quote: Jennifer Symes is an amazing Doula! Having her around was a tremendous help.
-    Although my labor did not go as plan, she was very attentive and helped me to
-    become as comfortable as possible. She assisted me with different techniques to
-    help manage my labor. During my pregnancy and childbirth Jennifer was available
+    Although my labor did not go as planned, she was very attentive and helped me
+    to become as comfortable as possible. She assisted me with different techniques
+    to help manage my labor. During my pregnancy and childbirth Jennifer was available
     to answer any questions that arose. My partner expressed many times being grateful
     for her presence. Having her there gave my partner the opportunity to rest after
     working a double shift and know I was in good hands. Postpartum Jennifer continues
