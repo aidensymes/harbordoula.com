@@ -5,8 +5,8 @@ permalink: "/"
 blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
   Northeast Massachusetts and Southern NH.
 about: "Welcome!\n\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula. My
-  goal is to create a supportive, safe space for families as they bring a new baby
-  in the world. Pregnancy, childbirth and the newborn weeks come with great joy, transitions
+  goal is to create a nurturing space for families as they bring a new baby in the
+  world. Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find the path that works best for
   you and your baby. I provide non-judgmental care, education, hands-on support and
   encouragement for you and all members of your family or birth team. \n\nMy road
