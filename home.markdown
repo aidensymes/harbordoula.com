@@ -9,11 +9,11 @@ about: "Welcome!\n\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula.
   in the world. Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find the path that works best for
   you and your baby. I provide non-judgmental care, education, hands-on support and
-  encouragement for all members of your family and birth team. \n\nMy road to doula
-  work started with a degree in Psychology and a career in Early Childhood Education,
-  both as a teacher and an administrator. I saw that many new parents needed more
-  support and appreciated that even more as my family grew from one child to four.
-  I am passionate about the rights and needs of birthing people and new families.
+  encouragement for you and all members of your family or birth team. \n\nMy road
+  to doula work started with a degree in Psychology and a career in Early Childhood
+  Education, both as a teacher and an administrator. I saw that many new parents needed
+  more support and appreciated that even more as my family grew from one child to
+  four. I am passionate about the rights and needs of birthing people and new families.
   Limiting the number of clients I take allows me to develop relationships and ensure
   that I have the time needed to focus on you. \n\n A background in Early Childhood
   Education and Psychology, as well as the education of parenting four children, lead
@@ -26,8 +26,8 @@ about: "Welcome!\n\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula.
   that help me better serve my clients, including childbirth education, breastfeeding,
   pelvic floor health, trauma informed birth support and I hold current certifications
   in Infant and Adult CPR and First Aid.\n\nThe best way to know if we would make
-  a good team is for us to discuss your individual needs and wishes. Send me an email,
-  call or text for a consultation. "
+  a good team is for us to discuss your individual needs and wishes. Feel free to
+  reach out for a consultation. "
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
@@ -74,30 +74,23 @@ services-blurb: Prenatal, Birth and Postpartum Care
 services:
 - "Antepartum \nWhy hire a Doula for prenatal support?\nMeeting with me prenatally
   can help prepare you for the birth of your child. We will tailor a program to your
-  needs that could include education about childbirth and childcare, emotional preparation,
-  household organization or physical and physiological support.  If you are anxious
-  about labor or would just like more preparation, this may be what you need. \nAnitpartum
-  doula care is essential for parents if medical bed-rest is recommended. This type
-  of support could include errands, light meal preparation and other physical comfort
-  measures. \nThis service is provided on an hourly basis and can include as many
-  or as few visits as needed for your unique situation."
+  needs that could include education about childbirth and baby-care, emotional readiness,
+  relaxation techniques or household organization.  If you are anxious about labor
+  or would like more preparation, this may be just what you need. \nAnitpartum Doula
+  Care is essential for parents if medical bed-rest is recommended. This type of support
+  could also include errands, light meal preparation and other physical comfort measures.
+  \nThis service is provided on an hourly basis and can include as many or as few
+  visits as needed for your unique situation."
 - "Labor and Birth Support\nStudies show that having a Doula has many benefits, such
   as a more positive birth experience, lower Cesarean rates, shorter labors and less
-  medications, including  those to induce labor. \nAs your Birth Doula, I provide
-  continuous support to you as you bring your baby into the world. I will meet with
-  you and anyone who will accompany you into labor prenatally. Together, we will explore
-  your needs and wishes for your birth experience. These prenatal sessions will help
-  you create your birth preferences and an environment that is empowering and satisfying,
-  as well as, provided hands-on preparation for your labor.  Outside of these meetings,
-  I am available for phone, text or email questions anytime and will be on-call 24
-  hours a day when you reach the 38th week of your pregnancy. I will join you at your
-  home, hospital or birth center when you are ready and will stay with you through
-  your labor,the birth and until you are settled after the birth of your baby (or
-  babies). I will plan to see you for a postpartum visit within a few days. Labor
-  support for your partner or other companion is provided as an important part of
-  my role as a Birth Doula. This team approach is meant to give the birthing person
-  the best possible outcome.  \nBirth doula care is offered as a package including
-  prenatal meetings, dedicated on-call period, continuous labor support and postpartum
+  medications, including  those to induce labor. \nAs your Birth Doula, my role is
+  to support you as your baby enters the world. I will meet with you, and anyone who
+  will accompany you into labor, prenatally. Together, we will explore your needs
+  and wishes for your birth experience. Labor support for your partner or other companion
+  is important . When the time comes, I will join you at your home, hospital or birth
+  center and you will have my undivided attention until you are settled after the
+  birth of your baby (or babies). \nBirth doula care is offered as a package including
+  prenatal meetings, dedicated on-call period, continuous labor support and a postpartum
   visit.  "
 - "Postpartum\nCare, when you need it most.\nOffering supportive care for new parents
   in your home while you navigate the first weeks with a new baby. My role varies
