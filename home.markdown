@@ -4,32 +4,23 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
   Northeast Massachusetts and Southern NH.
-about: "Welcome!\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula. My
+about: "Welcome!\n\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula. My
   goal is to create a supportive, safe shelter for families as they bring a new baby
   in the world. Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find the path that works best for
   you and your baby. I provide non-judgmental care, education, hands-on support and
-  encouragement for all members of your family and birth team. \n\nI hold a Bachelor's
-  degree in Psychology and Human Services. Most of my professional experience is in
-  Early Childhood Education.\n\nAfter earning my BA in Psychology and Human Services,
-  I worked with teens and slowly made my way to infants. My background in Early Childhood
-  Education began as a preschool teacher and progressed to infants, toddlers and many
-  years as a Childcare Center Director of several large centers. As my four children
-  grew, I began the search for a new career and that lead me to doula work. I am proud
-  to volunteer for the Connecting Young Moms program as a Birth Doula and provide
-  antipartum care for at-risk expecting parents through the Pettaway Pursuit Foundation.
-  \n\n My background in Early Childhood Education and Psychology, as well as my experience
-  as a parent to four amazing children, lead me to Doula work. I am passionate about
-  the rights and needs of birthing people and for this reason, I limit the number
-  of clients I take to ensure that I have the time needed to spend with you. \nMy
-  philosophy is simple: your birth, your choices. I will give you the resources you
-  need to make informed decisions and the tools to implement those plans. You will
-  find the most support and satisfaction with a solid team that includes your support
-  people and healthcare providers. \n\nIn addition to the DONA Birth and Postpartum
-  certification training, I have completed workshops in childbirth education, breastfeeding,
-  pelvic floor health, trauma informed birth support and hold current Infant and Adult
-  CPR and First Aid Certification.\n\nPlease, feel free to reach out to me so we can
-  discuss your individual needs and wishes. "
+  encouragement for all members of your family and birth team. \n\n My background
+  in Early Childhood Education and Psychology, as well as the education of parenting
+  four children, lead me to Doula work. I am passionate about the rights and needs
+  of birthing people and for this reason, I limit the number of clients I take to
+  ensure that I have the time needed to spend with you. \n\nMy philosophy is simple:
+  your birth, your choices. I provide the resources you need to make informed decisions
+  and the tools to implement those plans.  \n\nI continue to take workshops that help
+  me better serve my clients, including childbirth education, breastfeeding, pelvic
+  floor health, trauma informed birth support and I hold current certifications in
+  Infant and Adult CPR and First Aid.\n\nThe best way to know if we would make a good
+  team is for us to discuss your individual needs and wishes. Send me an email, call
+  or text for a consultation. "
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
@@ -55,12 +46,10 @@ testimonials:
     definitely reach out to her in a heartbeat shall we decide to extend our family.
     Thank you again Jennifer!
   person: "— Natasha B."
-- quote: When my husband was not present for the first three weeks of my baby's life
-    due to serving in the National Guard I was so grateful that I had Jennifer's help.
-    She helped me on a pragmatic and emotional level. Logistically, Jennifer just
-    knew what to do without needing much direction. During that time I had a little
-    anxiety and I wanted everything in my physical environment to be just so to help
-    me feel more in control. Although I know this form of control is illusionary Jennifer
+- quote: I was so grateful that I had Jennifer's help. She helped me on a pragmatic
+    and emotional level. Logistically, Jennifer just knew what to do without needing
+    much direction. During that time I had a little anxiety and I wanted everything
+    in my physical environment to be just so to help me feel more in control... Jennifer
     helped keep my physical environment orderly and clean so I could enjoy my little
     one. I remember one afternoon I got lightheaded and laid down to rest. Jennifer
     got my baby to sleep and when I woke up rested, my trash was taken out, my dishes
@@ -70,11 +59,9 @@ testimonials:
     them. I felt lighter and more reassured after our conversations. Jennifer listened
     in a way that did not feel like she was trying to fix me; she was present, accepting,
     and nurturing. And she helped me to laugh which I definitely needed. Jennifer
-    truly cared. She came by twice after my husband got home just to make sure we
-    were transitioning okay into being parents together. She was always available
-    to talk when I needed her. I would wholeheartedly recommend Jennifer as a doula.
-    My husband and I are planning on having a second child and I will certainly hire
-    Jennifer again.
+    truly cared...  I would wholeheartedly recommend Jennifer as a doula. My husband
+    and I are planning on having a second child and I will certainly hire Jennifer
+    again.
   person: "— Molly K."
 services-blurb: Prenatal, Birth and Postpartum Care
 services:
