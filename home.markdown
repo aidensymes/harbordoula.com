@@ -4,30 +4,25 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
   Northeast Massachusetts and Southern NH.
-about: "Welcome!\n\nI'm Jennifer Symes, DONA trained Birth and Postpartum Doula. My
-  goal is to create a nurturing space for families as they bring a new baby in the
-  world. Pregnancy, childbirth and the newborn weeks come with great joy, transitions
-  and challenges. As your Doula, I can help you find the path that works best for
-  you and your baby. I provide non-judgmental care, education, hands-on support and
-  encouragement for you and all members of your family or birth team. \n\nMy road
-  to doula work started with a degree in Psychology and a career in Early Childhood
-  Education, both as a teacher and an administrator. I saw that many new parents needed
-  more support and appreciated that even more as my family grew from one child to
-  four. I am passionate about the rights and needs of birthing people and new families.
-  Limiting the number of clients I take allows me to develop relationships and ensure
-  that I have the time needed to focus on you. \n\n A background in Early Childhood
-  Education and Psychology, as well as the education of parenting four children, lead
-  me to Doula work. I am passionate about the rights and needs of birthing people
-  and believe that your voice should be heard. Developing a relationship with families
-  is an important part of my role and for this reason, I limit the number of clients
-  I take to ensure that I have the time needed to spend with you. \n\nMy philosophy
-  is simple: your birth, your choices. I provide the resources you need to make informed
-  decisions and the tools to implement those plans.  \n\nI continue to take workshops
-  that help me better serve my clients, including childbirth education, breastfeeding,
-  pelvic floor health, trauma informed birth support and I hold current certifications
-  in Infant and Adult CPR and First Aid.\n\nThe best way to know if we would make
-  a good team is for us to discuss your individual needs and wishes. Feel free to
-  reach out for a consultation. "
+about: "Welcome to Habor Doula Care!\n\nI'm Jennifer Symes, DONA trained Birth and
+  Postpartum Doula. My goal is to create a nurturing space for families as they bring
+  a new baby into the world. Pregnancy, childbirth and the newborn weeks come with
+  great joy, transitions and challenges. As your Doula, I can help you find the path
+  that works best for you and your baby. I provide non-judgmental care, education,
+  hands-on support and encouragement for you and all members of your family and birth
+  team. \n\n A background in Early Childhood Education and Psychology, as well as
+  the education of parenting four children, lead me to Doula work. I am passionate
+  about the rights and needs of birthing people and believe that your voice should
+  be heard. Developing a relationship with the families I work with is so important
+  and for this reason, I limit the number of clients I take to ensure that I have
+  the time needed to focus on you.\n\nMy philosophy is simple: your birth, your choices.
+  I provide the resources you need to make informed decisions, as well as the tools
+  to implement those plans, but ultimately, the decisions are yours.   \n\nI continue
+  to take workshops that help me better serve my clients, including childbirth education,
+  breastfeeding, pelvic floor health, trauma informed birth support and I hold current
+  certifications in Infant and Adult CPR and First Aid.\n\nThe best way to know if
+  we would make a good team is for us to discuss your individual needs and wishes.
+  Feel free to reach out for a consultation. "
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
@@ -86,12 +81,12 @@ services:
   medications, including  those to induce labor. \nAs your Birth Doula, my role is
   to support you as your baby enters the world. I will meet with you, and anyone who
   will accompany you into labor, prenatally. Together, we will explore your needs
-  and wishes for your birth experience. Labor support for your partner or other companion
-  is important . When the time comes, I will join you at your home, hospital or birth
-  center and you will have my undivided attention until you are settled after the
-  birth of your baby (or babies). \nBirth doula care is offered as a package including
-  prenatal meetings, dedicated on-call period, continuous labor support and a postpartum
-  visit.  "
+  and wishes for your birth experience. Though much attention is focused on the birthing
+  person, labor support for your partner or other companion is also a priority. When
+  the time comes, I will join you at your home, hospital or birth center and you will
+  have my undivided attention until you are settled after the birth of your baby (or
+  babies). \nBirth doula care is offered as a package including prenatal meetings,
+  dedicated on-call period, continuous labor support and a postpartum visit.  "
 - "Postpartum\nCare, when you need it most.\nOffering supportive care for new parents
   in your home while you navigate the first weeks with a new baby. My role varies
   with your needs and can include education, physical comfort during recovery, emotional
