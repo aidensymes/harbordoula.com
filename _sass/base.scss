@@ -18,11 +18,3 @@ img {
   width: 100%;
   height: auto;
 }
-
-::selection {
-  background: $highlight; /* WebKit/Blink Browsers */
-}
-
-::-moz-selection {
-  background: $highlight; /* Gecko Browsers */
-}
