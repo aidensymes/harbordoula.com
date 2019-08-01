@@ -41,6 +41,16 @@
   background-color: $blue;
 }
 
+// Images
+/////////////////////////////////////////////////////
+.section__img__wrapper {
+  background-color: $blue;
+  img {
+    display: block;
+    mix-blend-mode: luminosity;
+  }
+}
+
 // General Structure
 /////////////////////////////////////////////////////
 section, footer {
@@ -113,9 +123,6 @@ header {
   margin-top: $gutter-4;
   z-index: 0;
   @include rule-thin;
-  p {
-    text-align: right;
-  }
   @include break-at('small') {
     grid-column: span 12;
     padding-top: $gutter-half;
@@ -123,10 +130,20 @@ header {
   }
 }
 
+.testimonial__name {
+  text-align: right;
+}
+
 // Services
 /////////////////////////////////////////////////////
 .services__list {
   margin-top: $gutter;
+}
+
+.service {
+  p:nth-last-child(1) {
+    margin-bottom: $gutter-2;
+  }
 }
 
 // Contact
@@ -141,5 +158,12 @@ header {
       @include rule-none;
       padding-top: 0;
     }
+  }
+}
+
+.link {
+  text-decoration: underline;
+  &:hover {
+    text-decoration: none;
   }
 }

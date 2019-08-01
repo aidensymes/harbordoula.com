@@ -28,21 +28,22 @@
         <h1>
           About
         </h1>
+        <h2>
+          {{page.about-intro}}
+        </h2>
       </div>
       <div class="section__blurb col-4">
-        <p>
-          {{page.about}}
-        </p>
+        {{page.about | markdownify}}
       </div>
       <div class="section__img col-4">
-        <img src="{{page.headshot-image}}">
+        <div class="section__img__wrapper">
+          <img src="{{page.headshot-image}}">
+        </div>
       </div>
       {% for testimonial in page.testimonials %}
         <div class="testimonial col-4">
-          <h2>
-            {{testimonial.quote}}
-          </h2>
-          <p>
+          {{testimonial.quote | markdownify}}
+          <p class="testimonial__name">
             {{testimonial.person}}
           </p>
         </div>
@@ -54,21 +55,26 @@
         <h1>
           Services
         </h1>
+        <h2>
+          {{page.services-intro}}
+        </h2>
       </div>
       <div class="section__blurb col-4">
-        <p>
-          {{page.about}}
-        </p>
         <div class="services__list">
           {% for service in page.services %}
-            <h2>
-              {{service}}
-            </h2>
+              <div class="service">
+              <h2>
+                {{service.name}}
+              </h2>
+              {{service.description | markdownify}}
+            </div>
           {% endfor %}
         </div>
       </div>
       <div class="section__img col-4">
-        <img src="{{page.services-image}}">
+        <div class="section__img__wrapper">
+          <img src="{{page.services-image}}">
+        </div>
       </div>
     </section>
 
@@ -83,9 +89,18 @@
           <p class="light">
             {{page.email}}
           </p>
-          <p>
+          <p class="light">
             {{page.phone}}
           </p>
+        </div>
+        <div class="section__blurb col-4">
+          {% for link in page.links %}
+            <a href="link.url" target="_blank">
+              <p class="light link" >
+                {{link.name}}
+              </p>
+            </a>
+          {% endfor %}
         </div>
       </div>
     </footer>
