@@ -4,26 +4,26 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
   Northeast Massachusetts and Southern NH.
-Field name: 
-about: "Welcome to Harbor Doula Care!\n\nI'm Jennifer Symes, DONA trained Birth and
-  Postpartum Doula. My goal is to create a nurturing space for families as they bring
-  a new baby into the world. Pregnancy, childbirth and the newborn weeks come with
-  great joy, transitions and challenges. As your Doula, I can help you find the path
-  that works best for you and your baby. I provide non-judgmental care, education,
+about-intro: "Welcome to Harbor Doula Care!\n\nI'm Jennifer Symes, DONA trained Birth
+  and Postpartum Doula. My goal is to create a nurturing space for families as they
+  bring a new baby into the world. Pregnancy, childbirth and the newborn weeks come
+  with great joy, transitions and challenges. As your Doula, I can help you find the
+  path that works best for you and your baby. I provide non-judgmental care, education,
   hands-on support and encouragement for you and all members of your family and birth
-  team. \n\n A background in Early Childhood Education and Psychology, as well as
-  the education of parenting four children, lead me to Doula work. I am passionate
-  about the rights and needs of birthing people and believe that your voice should
-  be heard. Developing a relationship with the families I work with is so important
-  and for this reason, I limit the number of clients I take to ensure that I have
-  the time needed to focus on you.\n\nMy philosophy is simple: your birth, your choices.
-  I provide the resources you need to make informed decisions, as well as the tools
-  to implement those plans, but ultimately, the decisions are yours.   \n\nI continue
-  to take workshops that help me better serve my clients, including childbirth education,
-  breastfeeding, pelvic floor health, trauma informed birth support and I hold current
-  certifications in Infant and Adult CPR and First Aid.\n\nThe best way to know if
-  we would make a good team is for us to discuss your individual needs and wishes.
-  Feel free to reach out for a consultation. "
+  team. "
+about: "A background in Early Childhood Education and Psychology, as well as the education
+  of parenting four children, lead me to Doula work. I am passionate about the rights
+  and needs of birthing people and believe that your voice should be heard. Developing
+  a relationship with the families I work with is so important and for this reason,
+  I limit the number of clients I take to ensure that I have the time needed to focus
+  on you.\n\nMy philosophy is simple: your birth, your choices. I provide the resources
+  you need to make informed decisions, as well as the tools to implement those plans,
+  but ultimately, the decisions are yours.   \n\nI continue to take workshops that
+  help me better serve my clients, including childbirth education, breastfeeding,
+  pelvic floor health, trauma informed birth support and I hold current certifications
+  in Infant and Adult CPR and First Aid.\n\nThe best way to know if we would make
+  a good team is for us to discuss your individual needs and wishes. Feel free to
+  reach out for a consultation. "
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
@@ -66,7 +66,7 @@ testimonials:
     and I are planning on having a second child and I will certainly hire Jennifer
     again.
   person: "— Molly K."
-services-blurb: Prenatal, Birth and Postpartum Care
+services-intro: Prenatal, Birth and Postpartum Care
 services:
 - name: Antepartum
   description: "Why hire a Doula for prenatal support? \n\nMeeting with me prenatally
