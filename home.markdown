@@ -102,8 +102,10 @@ services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
 links:
-- Doula Match: URL GOES HERE
-  Link Name: URL GOES HERE
+- name: Doula Match
+  url: example.com
+- name: another link
+  url: example.com
 layout: home
 ---
 
