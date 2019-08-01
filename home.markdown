@@ -5,7 +5,7 @@ permalink: "/"
 blurb: Caring Support Before, During and After Your Baby's Birth. Serving Boston,
   Northeast Massachusetts and Southern NH.
 Field name: 
-about: "Welcome to Habor Doula Care!\n\nI'm Jennifer Symes, DONA trained Birth and
+about: "Welcome to Harbor Doula Care!\n\nI'm Jennifer Symes, DONA trained Birth and
   Postpartum Doula. My goal is to create a nurturing space for families as they bring
   a new baby into the world. Pregnancy, childbirth and the newborn weeks come with
   great joy, transitions and challenges. As your Doula, I can help you find the path
@@ -68,35 +68,37 @@ testimonials:
   person: "— Molly K."
 services-blurb: Prenatal, Birth and Postpartum Care
 services:
-- Antepartum: Why hire a Doula for prenatal support? Meeting with me prenatally can
-    help prepare you for the birth of your child. We will tailor a program to your
-    needs that could include education about childbirth and baby-care, emotional readiness,
-    relaxation techniques or household organization. If you are anxious about labor
-    or would like more preparation, this may be just what you need. Anitpartum Doula
-    Care is essential for parents if medical bed-rest is recommended. This type of
-    support could also include errands, light meal preparation and other physical
+- name: Antepartum
+  description: "Why hire a Doula for prenatal support? \n\nMeeting with me prenatally
+    can help prepare you for the birth of your child. We will tailor a program to
+    your needs that could include education about childbirth and baby-care, emotional
+    readiness, relaxation techniques or household organization. If you are anxious
+    about labor or would like more preparation, this may be just what you need. Anitpartum
+    Doula Care is essential for parents if medical bed-rest is recommended. This type
+    of support could also include errands, light meal preparation and other physical
     comfort measures. This service is provided on an hourly basis and can include
-    as many or as few visits as needed for your unique situation.
-  Labor and Birth Support: "Studies show that having a Doula has many benefits, such
-    as a more positive birth experience, lower Cesarean rates, shorter labors and
-    less medications, including  those to induce labor. \nAs your Birth Doula, my
-    role is to support you as your baby enters the world. I will meet with you, and
-    anyone who will accompany you into labor, prenatally. Together, we will explore
-    your needs and wishes for your birth experience. Though much attention is focused
-    on the birthing person, labor support for your partner or other companion is also
-    a priority. When the time comes, I will join you at your home, hospital or birth
-    center and you will have my undivided attention until you are settled after the
-    birth of your baby (or babies). \nBirth doula care is offered as a package including
-    prenatal meetings, dedicated on-call period, continuous labor support and a postpartum
-    visit.  "
-  Postpartum: "Care, when you need it most.\nOffering supportive care for new parents
+    as many or as few visits as needed for your unique situation."
+- name: Labor and Birth Support
+  description: "Studies show that having a Doula has many benefits, such as a more
+    positive birth experience, lower Cesarean rates, shorter labors and less medications,
+    including  those to induce labor. \n\nAs your Birth Doula, my role is to support
+    you as your baby enters the world. I will meet with you, and anyone who will accompany
+    you into labor, prenatally. Together, we will explore your needs and wishes for
+    your birth experience. Though much attention is focused on the birthing person,
+    labor support for your partner or other companion is also a priority. When the
+    time comes, I will join you at your home, hospital or birth center and you will
+    have my undivided attention until you are settled after the birth of your baby
+    (or babies). \n\nBirth doula care is offered as a package including prenatal meetings,
+    dedicated on-call period, continuous labor support and a postpartum visit.  "
+- name: Postpartum
+  description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
     with your needs and can include education, physical comfort during recovery, emotional
     support, household organization, light meal preparation, baby feeding and newborn
     resources. I can help you with tasks around the house, accompany you to an appointment
     or ensure that you get that much needed nap or a shower. Let's talk about your
-    needs and come up with a solution.\nThese hourly visits are designed to meet the
-    unique needs of each family.  "
+    needs and come up with a solution.\n\nThese hourly visits are designed to meet
+    the unique needs of each family.  "
 services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
