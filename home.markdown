@@ -11,7 +11,7 @@ about: "Pregnancy, childbirth and the newborn weeks come with great joy, transit
   and challenges. As your Doula, I can help you find the path that works best for
   you and your baby. I provide non-judgmental care, education, hands-on support and
   encouragement for you and all members of your family and birth team. \n\nA background
-  in Early Childhood Education and Psychology, as well as the education of parenting
+  in Early Childhood Education and Psychology, as well as the experience of parenting
   four children, lead me to Doula work. I am passionate about the rights and needs
   of birthing people and believe that your voice should be heard. Developing a relationship
   with the families I work with is so important and for this reason, I limit the number
