@@ -102,10 +102,10 @@ services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
 links:
-- name: Doula Match
-  url: example.com
-- name: another link
-  url: example.com
+- name: Doula Match Profile
+  url: https://doulamatch.net/profile/22427/jennifer-symes
+- name: Why Hire a Doula?
+  url: https://www.dona.org/what-is-a-doula/benefits-of-a-doula/
 layout: home
 ---
 
