@@ -75,7 +75,7 @@ services:
     about labor or would like more preparation, this may be just what you need. Anitpartum
     Doula Care is essential for parents if medical bed-rest is recommended. This type
     of support could also include errands, light meal preparation and other physical
-    comfort measures. This service is provided on an hourly basis and can include
+    comfort measures. \n\nThis service is provided on an hourly basis and can include
     as many or as few visits as needed for your unique situation."
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
