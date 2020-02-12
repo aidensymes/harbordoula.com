@@ -4,24 +4,25 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring support before, during and after your baby's birth. Serving Boston,
   North Shore and Southern NH.
-about-intro: "Welcome to Harbor Doula Care!\n\nI'm Jennifer Symes, DONA trained Birth
-  and Postpartum Doula. My goal is to help you create a nurturing space as you bring
-  your new baby into the world. "
+about-intro: |-
+  Welcome to Harbor Doula Care!
+
+  I'm Jennifer Symes, DONA trained Birth and Postpartum Doula. Congratulations on your pregnancy or new baby! My goal is to help create a nurturing space for families like yours.
 about: "Pregnancy, childbirth and the newborn weeks come with great joy, transitions
-  and challenges. As your Doula, I can help you find the path that works best for
-  you and your baby. I provide non-judgmental care, education, hands-on support and
-  encouragement for you and all members of your family and birth team. \n\nSo, why
-  did I decide to become a Doula?  It’s been a lifetime of choices that lead me here.
-  Working with children and families has always been a big part of my life. Professionally,
-  my background is in Early Childhood Education and Psychology. I started out working
-  with teens and slowly progressed to preschool, toddlers and infants, both as a teacher
-  and an administrator of childcare programs. Personally, I am the proud parent of
-  four children, learning parenting lessons daily. What’s true of most parents is
-  that along with the joy, they sometimes feel nervous, lonely or just plain tired.
-  And I’ve found that this is the case whether your baby is in utero or high school.
-  I am here to listen and help solve the problems you encounter from pregnancy to
-  the postpartum months. I am also here to celebrate your victories and cheer you
-  on! When you are supported in this journey, I believe you are the parent your child
+  and challenges. As your Doula, I can help you find what works best for you and your
+  baby. I provide non-judgmental care, education, hands-on support and encouragement
+  as you navigate this journey of parenthood. Whether this is your first baby or your
+  fifth, doula care offers you the personalized support that you need. \n\nSo, why
+  did I decide to become a Doula?  A lifetime of choices lead me here. Working with
+  children and families has always been a big part of my life. Professionally, my
+  background is in Early Childhood Education and Psychology, both as a teacher and
+  an administrator of childcare programs. Personally, I am the proud parent of four
+  children, learning parenting lessons daily. What’s true of most parents is that
+  along with the joy, they sometimes feel nervous, lonely or just plain tired. And
+  I’ve found that this is the case whether your baby is in utero or high school. I
+  am here to listen and help solve the problems you encounter from pregnancy to the
+  postpartum months. I am also here to celebrate your victories and cheer you on!
+  When you are supported in this journey, I believe you are the parent your child
   deserves. \n\nMy philosophy is simple: I provide the resources you need to make
   informed decisions, as well as the tools to implement those plans, but ultimately,
   the decisions are yours. \n\nI continue to take workshops on a variety of topics
@@ -102,11 +103,11 @@ services:
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
     with your needs and can include education, physical comfort during recovery, emotional
-    support, household organization, light meal preparation, baby feeding and newborn
-    resources. I can help you with tasks around the house, accompany you to an appointment
-    or ensure that you get that much needed nap or a shower. Let's talk about your
-    needs and come up with a solution.\n\nThese hourly visits are designed to meet
-    the unique needs of each family.  "
+    support, household organization, light meal preparation, sibling adjustment, baby
+    feeding and newborn resources. I can help you with tasks around the house, accompany
+    you to an appointment or ensure that you get that much needed nap or a shower.
+    Let's talk about your needs and come up with a solution.\n\nThese hourly visits
+    are designed to meet the unique needs of each family.  "
 services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
