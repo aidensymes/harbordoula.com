@@ -21,9 +21,9 @@ about: "Pregnancy, childbirth and the newborn weeks come with great joy, transit
   children, learning parenting lessons daily. What’s true of most parents is that
   along with the joy, they sometimes feel nervous, lonely or just plain tired. And
   I’ve found that this is the case whether your baby is in utero or high school. I
-  am here to listen and help solve the problems you encounter from pregnancy to the
-  postpartum months. I am also here to celebrate your victories and cheer you on!
-  When you are supported in this journey, I believe you are the parent your child
+  am here to listen and help solve the problems you encounter from pregnancy through
+  the postpartum months. I am also here to celebrate your victories and cheer you
+  on! When you are supported in this journey, I believe you are the parent your child
   deserves. \n\nMy philosophy is simple: I provide the resources you need to make
   informed decisions, as well as the tools to implement those plans, but ultimately,
   the decisions are yours. \n\nI continue to take workshops on a variety of topics
