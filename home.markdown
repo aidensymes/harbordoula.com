@@ -87,7 +87,7 @@ services:
     Doula Care is essential for parents if medical bed-rest is recommended. This type
     of support could also include errands, light meal preparation and other physical
     comfort measures. \n\nThis service is provided on an hourly basis and can include
-    as many or as few visits as needed for your unique situation."
+    as many or as few visits as needed for your unique situation. $35-$45 per hour"
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
     positive birth experience, lower Cesarean rates, shorter labors and less medications,
@@ -98,9 +98,12 @@ services:
     person, but labor support for your partner or other companion is also my priority.
     When the time comes, I will join you at your home, hospital or birth center and
     you will have my undivided attention until you are settled after the birth of
-    your baby (or babies). \n\nBirth Doula care is offered as a package including
-    2-3 prenatal meetings, dedicated on-call period, continuous labor support and
-    one postpartum visit.  "
+    your baby (or babies). \n\nBirth Doula care is offered as a $1000 package that
+    includes\n* 2-3 prenatal meetings\n* Phone, text and email support as soon as
+    we sign an agreement\n* Access to my lending library and resources\n* Assistance
+    with Birth Preference List and preparation for labor and postpartum \n* 24/7 on-call
+    availability starting at 38 weeks gestation\n* Continuous labor support\n* Postpartum
+    Visit\n* 15% off additional postpartum visits\n "
 - name: Postpartum
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
@@ -109,7 +112,7 @@ services:
     feeding and newborn resources. I can help you with tasks around the house, accompany
     you to an appointment or ensure that you get that much needed nap or a shower.
     Let's talk about your needs and come up with a solution.\n\nThese hourly visits
-    are designed to meet the unique needs of each family.  "
+    are designed to meet the unique needs of each family. $35-$45 per hour   "
 services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
