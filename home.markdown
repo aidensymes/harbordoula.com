@@ -102,7 +102,7 @@ services:
     Access to my lending library and resources\n* Assistance with Birth Preference
     List and preparation for labor and postpartum \n* 24/7 on-call availability starting
     at 38 weeks gestation\n* Continuous labor and immediate postpartum support\n*
-    Postpartum Visit\n* 15% off additional postpartum visits\n "
+    Postpartum Visit\n* 15% off additional postpartum visits\n\n\n\n\n\n\n\n "
 - name: Postpartum
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
