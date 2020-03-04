@@ -9,7 +9,7 @@ about-intro: |-
 
 
 
-  I'm Jennifer Symes, DONA trained Birth and Postpartum Doula. Congratulations on your pregnancy or new baby! I look forward to discussing how we can work together to create a nurturing space for you and your family.
+  I'm Jennifer Symes, CD(DONA) Birth and Postpartum Doula. Congratulations on your pregnancy or new baby! I look forward to discussing how we can work together to create a nurturing space for you and your family.
 about: "Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find what works best for you and your
   baby. I provide non-judgmental care, education, hands-on support and encouragement
