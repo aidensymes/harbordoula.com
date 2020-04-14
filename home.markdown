@@ -4,14 +4,13 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring support before, during and after your baby's birth. Serving Boston,
   North Shore and Southern NH.
-about-intro: |-
-  Welcome to Harbor Doula Care!
-
-
-
-  I'm Jennifer Symes, CD(DONA) Birth and Postpartum Doula. Congratulations on your pregnancy or new baby! I look forward to discussing how we can work together to create a nurturing space for you and your family.
-
-  In response to changing policies and safety measures, I am offering all services virtually. We can schedule a full support package, a one time session or something in between. You don't have to face these challenges without professional support.
+about-intro: "Welcome to Harbor Doula Care!\n\n\n\nI'm Jennifer Symes, CD(DONA) Birth
+  and Postpartum Doula. \n\nCongratulations on this new adventure! I look forward
+  to discussing how we can work together to create a nurturing space for you and your
+  family.\n\nIn response to changing policies and safety measures, I am offering all
+  services virtually. We can schedule a full support package, a one time session or
+  something in between. You don't have to face these challenges without professional
+  support."
 about: "Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find what works best for you and your
   baby. I provide non-judgmental care, education, hands-on support and encouragement
