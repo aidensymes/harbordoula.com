@@ -4,11 +4,10 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring support before, during and after your baby's birth. Serving Boston,
   North Shore and Southern NH.
-about-info: "                                                                                                                                                                                                                                   \n\n\n\nI'm
-  Jennifer Symes, CD(DONA) Birth and Postpartum Doula. \n\nCongratulations on this
-  new adventure! I look forward to discussing how we can work together to create a
-  nurturing space for you and your family.\n\nIn response to changing policies and
-  safety measures due to covid-19, I am offering services virtually. We can schedule
+about-intro: "I'm Jennifer Symes, CD(DONA) Birth and Postpartum Doula. \n\nCongratulations
+  on this new adventure! I look forward to discussing how we can work together to
+  create a nurturing space for you and your family.\n\nIn response to changing policies
+  and safety measures due to covid-19, I am offering services virtually. We can schedule
   a full support package, a one time session or something in between. You don't have
   to face these challenges without preparation and support."
 about: "Pregnancy, childbirth and the newborn weeks come with great joy, transitions
