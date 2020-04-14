@@ -92,13 +92,12 @@ services:
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
     positive birth experience, lower Cesarean rates, shorter labors and less medications,
-    including  those to induce labor. \n\nAs your Birth Doula, my role is to support
-    you as your baby enters the world. I will meet with you, and anyone who will accompany
-    you into labor, prenatally. Together, we will explore your needs and wishes for
-    your birth experience. When the time comes, I will join you at your home, hospital
-    or birth center and you will have my undivided attention until you are settled
-    after the birth of your baby (or babies). \n\nBirth Doula care is offered as a
-    package at $1,000. \n\n"
+    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,000
+    package including \n* 2-3 prenatal meetings \n* Phone, text and email support
+    as soon as we sign an agreement * Access to my lending library and resources \n*
+    Assistance with Birth Preference List and preparation for labor and postpartum
+    \n* 24/7 on-call availability starting at 38 weeks gestation \n* Continuous labor
+    and immediate postpartum support \n* Postpartum Visit\n\n  \n\n"
 - name: Postpartum
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
