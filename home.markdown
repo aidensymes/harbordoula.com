@@ -10,6 +10,8 @@ about-intro: |-
 
 
   I'm Jennifer Symes, CD(DONA) Birth and Postpartum Doula. Congratulations on your pregnancy or new baby! I look forward to discussing how we can work together to create a nurturing space for you and your family.
+
+  In response to changing policies and safety measures, I am offering all services virtually. We can schedule a full support package, a one time session or something in between. You don't have to face these challenges without professional support.
 about: "Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find what works best for you and your
   baby. I provide non-judgmental care, education, hands-on support and encouragement
@@ -101,8 +103,7 @@ services:
     as soon as we sign an agreement\n* Access to my lending library and resources\n*
     Assistance with Birth Preference List and preparation for labor and postpartum
     \n* 24/7 on-call availability starting at 38 weeks gestation\n* Continuous labor
-    and immediate postpartum support\n* Postpartum Visit\n* 15% off additional postpartum
-    visits\n\n\n\n\n\n\n\n "
+    and immediate postpartum support\n* Postpartum Visit\n"
 - name: Postpartum
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
@@ -111,7 +112,8 @@ services:
     feeding and newborn resources. I can help you with tasks around the house, accompany
     you to an appointment or ensure that you get that much needed nap or a shower.
     Let's talk about your needs and come up with a solution.\n\nThese hourly visits
-    are designed to meet the unique needs of each family. $35-$45 per hour   "
+    are designed to meet the unique needs of each family. $35-$45 per hour~15% off
+    for birth clients   "
 services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
