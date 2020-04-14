@@ -15,15 +15,15 @@ about: "Pregnancy, childbirth and the newborn weeks come with great joy, transit
   and challenges. As your Doula, I can help you find what works best for you and your
   baby. I provide non-judgmental care, education, hands-on support and encouragement
   as you navigate this journey of parenthood. Whether this is your first baby or your
-  fifth, doula care offers you the personalized support that you need. \n\nSo, why
-  did I decide to become a Doula?  A lifetime of choices lead me here. Working with
-  children and families has always been a big part of my life. Professionally, my
-  background is in Early Childhood Education and Psychology, both as a teacher and
-  an administrator of childcare programs. Personally, I am the proud parent of four
-  children, learning parenting lessons daily. What’s true of most parents is that
-  along with the joy, they sometimes feel nervous, lonely or just plain tired. And
-  I’ve found that this is the case whether your baby is in utero or high school. I
-  am here to listen and help solve the problems you encounter from pregnancy through
+  fifth, Doula care offers you the personalized support that you need. \n\nPeople
+  often ask why I decided to become a Doula.  A lifetime of choices lead me here.
+  Working with children and families has always been a big part of my life. Professionally,
+  my background is in Early Childhood Education and Psychology, both as a teacher
+  and an administrator of childcare programs. Personally, I am the proud parent of
+  four children, learning parenting lessons daily. What’s true of most parents is
+  that along with the joy, they sometimes feel nervous, lonely or just plain tired.
+  And I’ve found that this is the case whether your baby is in utero or high school.
+  I am here to listen and help solve the problems you encounter from pregnancy through
   the postpartum months. I am also here to celebrate your victories and cheer you
   on! When you are supported in this journey, I believe you are the parent your child
   deserves. \n\nMy philosophy is simple: I provide the resources you need to make
