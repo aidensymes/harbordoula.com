@@ -98,11 +98,11 @@ services:
     your birth experience. When the time comes, I will join you at your home, hospital
     or birth center and you will have my undivided attention until you are settled
     after the birth of your baby (or babies). \n\nBirth Doula care is offered as a
-    $1000 package including\n* 2-3 prenatal meetings\n* Phone, text and email support
-    as soon as we sign an agreement\n* Access to my lending library and resources\n*
+    $1000 package including\n* 2-3 prenatal meetings * Phone, text and email support
+    as soon as we sign an agreement * Access to my lending library and resources *
     Assistance with Birth Preference List and preparation for labor and postpartum
-    \n* 24/7 on-call availability starting at 38 weeks gestation\n* Continuous labor
-    and immediate postpartum support\n* Postpartum Visit\n"
+    * 24/7 on-call availability starting at 38 weeks gestation * Continuous labor
+    and immediate postpartum support * Postpartum Visit\n"
 - name: Postpartum
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
