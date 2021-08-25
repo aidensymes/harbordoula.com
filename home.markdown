@@ -112,9 +112,12 @@ phone: 508-523-0827
 links:
 - name: My Doula Match Profile
   url: https://doulamatch.net/profile/22427/jennifer-symes
-  Key: https://edoula.biz/l/-MTkq2wwPBzAwyfTDFAU
+  Key: 
 - name: Why Hire a Doula?
   url: https://www.dona.org/what-is-a-doula/benefits-of-a-doula/
+- name: Contact
+  url: https://edoula.biz/l/-MTkq2wwPBzAwyfTDFAU
+Key: 
 layout: home
 ---
 
