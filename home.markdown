@@ -32,7 +32,7 @@ about: "Pregnancy, childbirth and the newborn weeks come with great joy, transit
   in Infant and Adult CPR and First Aid.\n\nInviting someone into your birth space
   and your life is a very personal decision. The best way to know if we would make
   a good team is for us to talk. I'd love to schedule a free consultation to discuss
-  your individual needs and wishes. \nhttps://edoula.biz/l/-MTkq2wwPBzAwyfTDFAU\n"
+  your individual needs and wishes. \n\n"
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
