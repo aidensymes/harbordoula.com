@@ -115,7 +115,7 @@ links:
   Key: 
 - name: Why Hire a Doula?
   url: https://www.dona.org/what-is-a-doula/benefits-of-a-doula/
-- name: Contact
+- name: Want to schedule a consultation or get more information?
   url: https://edoula.biz/l/-MTkq2wwPBzAwyfTDFAU
 Key: 
 layout: home
