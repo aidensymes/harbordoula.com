@@ -4,7 +4,7 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring support before, during and after your baby's birth. Serving Boston,
   North Shore and Southern NH.
-about-intro: "I'm Jennifer Symes, CD(DONA) Birth and Postpartum Doula. \n\nCongratulations
+about-intro: "I'm Jennifer Symes, CD, PCD(DONA) Birth and Postpartum Doula. \n\nCongratulations
   on this new adventure! I look forward to discussing how we can work together to
   create a nurturing space for you and your family.\n\nIn response to changing policies
   and safety measures due to covid-19, I am offering services virtually. We can schedule
@@ -14,9 +14,8 @@ about: "Pregnancy, childbirth and the newborn weeks come with great joy, transit
   and challenges. As your Doula, I can help you find what works best for you and your
   baby. I provide non-judgmental care, education, hands-on support and encouragement
   as you navigate this journey of parenthood. Whether this is your first baby or your
-  fifth, Doula care offers you the personalized support that you need. \n\nPeople
-  often ask why I decided to become a Doula.  A lifetime of choices lead me here.
-  Working with children and families has always been a big part of my life. Professionally,
+  fifth, Doula care offers you the personalized support that you need. \n\nWorking
+  with children and families has always been a big part of my life. Professionally,
   my background is in Early Childhood Education and Psychology, both as a teacher
   and an administrator of childcare programs. Personally, I am the proud parent of
   four children, learning parenting lessons daily. What’s true of most parents is
@@ -33,7 +32,7 @@ about: "Pregnancy, childbirth and the newborn weeks come with great joy, transit
   in Infant and Adult CPR and First Aid.\n\nInviting someone into your birth space
   and your life is a very personal decision. The best way to know if we would make
   a good team is for us to talk. I'd love to schedule a free consultation to discuss
-  your individual needs and wishes. "
+  your individual needs and wishes. \nhttps://edoula.biz/l/-MTkq2wwPBzAwyfTDFAU\n"
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
@@ -87,16 +86,16 @@ services:
     Doula Care is essential for parents if medical bed-rest is recommended. This type
     of support could also include errands, light meal preparation and other physical
     comfort measures. \n\nThis service is provided on an hourly basis and can include
-    as many or as few visits as needed for your unique situation. $35-$45 per hour"
+    as many or as few visits as needed for your unique situation. $40-$45 per hour"
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
     positive birth experience, lower Cesarean rates, shorter labors and less medications,
-    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,000
-    package including *2-3 Prenatal meetings *Phone, text and email support through
+    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,200
+    package including *2 Prenatal meetings *Phone, text and email support through
     your pregnancy *Access to my lending library & resources *Assistance with writing
     a Birth Plan *Preparation for labor, birth and postpartum *24/7 on-call availability
     starting at 38 weeks gestation *Continuous labor and immediate postpartum support
-    *Postpartum visit in your home \n\n\n  \n\n"
+    *Postpartum visit \n\n\n  \n\n"
 - name: Postpartum
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
@@ -105,7 +104,7 @@ services:
     feeding and newborn resources. I can help you with tasks around the house, accompany
     you to an appointment or ensure that you get that much needed nap or a shower.
     Let's talk about your needs and come up with a solution.\n\nThese hourly visits
-    are designed to meet the unique needs of each family. $35-$45 per hour~15% off
+    are designed to meet the unique needs of each family. $40-$45 per hour~10% off
     for birth clients   "
 services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
@@ -113,6 +112,7 @@ phone: 508-523-0827
 links:
 - name: My Doula Match Profile
   url: https://doulamatch.net/profile/22427/jennifer-symes
+  Key: https://edoula.biz/l/-MTkq2wwPBzAwyfTDFAU
 - name: Why Hire a Doula?
   url: https://www.dona.org/what-is-a-doula/benefits-of-a-doula/
 layout: home
