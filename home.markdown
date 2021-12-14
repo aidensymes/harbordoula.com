@@ -90,7 +90,7 @@ services:
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
     positive birth experience, lower Cesarean rates, shorter labors and less medications,
-    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,400
+    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,500
     package including *2 Prenatal meetings *Phone, text and email support through
     your pregnancy *Access to my lending library & resources *Assistance with writing
     a Birth Plan *Preparation for labor, birth and postpartum *24/7 on-call availability
