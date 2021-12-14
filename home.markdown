@@ -90,7 +90,7 @@ services:
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
     positive birth experience, lower Cesarean rates, shorter labors and less medications,
-    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,200
+    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,400
     package including *2 Prenatal meetings *Phone, text and email support through
     your pregnancy *Access to my lending library & resources *Assistance with writing
     a Birth Plan *Preparation for labor, birth and postpartum *24/7 on-call availability
@@ -104,8 +104,8 @@ services:
     feeding and newborn resources. I can help you with tasks around the house, accompany
     you to an appointment or ensure that you get that much needed nap or a shower.
     Let's talk about your needs and come up with a solution.\n\nThese hourly visits
-    are designed to meet the unique needs of each family. $40-$45 per hour~10% off
-    for birth clients   "
+    are designed to meet the unique needs of each family. $45 per hour~10% off for
+    birth clients   "
 services-image: "/uploads/willamina.jen.jpg"
 email: jennifer@harbordoula.com
 phone: 508-523-0827
