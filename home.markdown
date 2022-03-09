@@ -27,12 +27,12 @@ about: "Pregnancy, childbirth and the newborn weeks come with great joy, transit
   deserves. \n\nMy philosophy is simple: I provide the resources you need to make
   informed decisions, as well as the tools to implement those plans, but ultimately,
   the decisions are yours. \n\nI continue to take workshops on a variety of topics
-  that help me better serve my clients, including childbirth education, lactation,
-  pelvic floor health, trauma informed birth support and Spinning Babies. I hold current
-  certifications in Infant and Adult CPR and First Aid.\n\nInviting someone into your
-  birth space and your life is a very personal decision. The best way to know if we
-  would make a good team is for us to talk. I'd love to schedule a free consultation
-  to discuss your individual needs and wishes. \n\n"
+  that help me better serve my clients, including Body Ready Method, childbirth education,
+  lactation, pelvic floor health, trauma informed birth support and Spinning Babies.
+  I hold current certifications in Infant and Adult CPR and First Aid.\n\nInviting
+  someone into your birth space and your life is a very personal decision. The best
+  way to know if we would make a good team is for us to talk. I'd love to schedule
+  a free consultation to discuss your individual needs and wishes. \n\n"
 headshot-image: "/uploads/miaela5.jpg"
 testimonials:
 - quote: Jennifer was such a huge help for our family postpartum. With two school
