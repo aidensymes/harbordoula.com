@@ -5,12 +5,13 @@ permalink: "/"
 published: false
 blurb: Caring support before, during and after your baby's birth. Serving Boston,
   North Shore and Southern NH.
-about-intro: "I'm Jennifer Symes, CD, PCD(DONA) Birth and Postpartum Doula. \n\nCongratulations
-  on this new adventure! I look forward to discussing how we can work together to
-  create a nurturing space for you and your family.\n\nIn response to changing policies
-  and safety measures due to covid-19, I am offering services virtually, if needed.
-  We can schedule a full support package, a one time session or something in between.
-  You don't have to face these challenges without preparation and support."
+about-intro: "I'm Jennifer Symes, CD, PCD(DONA) Birth and Postpartum Doula and Body
+  Ready Method Pro. \n\nCongratulations on this new adventure! I look forward to discussing
+  how we can work together to create a nurturing space for you and your family.\n\nIn
+  response to changing policies and safety measures due to covid-19, I am available
+  for virtual services, if needed. We can schedule a full support package, a one time
+  session or something in between. You don't have to face these challenges without
+  preparation and support."
 about: "Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find what works best for you and your
   baby. I provide non-judgmental care, education, hands-on support and encouragement
@@ -78,16 +79,23 @@ testimonials:
   person: "— Molly K."
 services-intro: Prenatal, Birth and Postpartum Care
 services:
-- name: Antepartum
-  description: "Why hire a Doula for prenatal support? \n\nMeeting with me prenatally
-    can help prepare you for the birth of your child. We will tailor a program to
-    your needs that could include education about childbirth and baby-care, emotional
-    readiness, relaxation techniques or household organization. If you are anxious
-    about labor or would like more preparation, this may be just what you need. Anitpartum
-    Doula Care is essential for parents if medical bed-rest is recommended. This type
-    of support could also include errands, light meal preparation and other physical
-    comfort measures. \n\nThis service is provided on an hourly basis and can include
-    as many or as few visits as needed for your unique situation. $40-$45 per hour"
+- name: Prenatal Preparation
+  description: "Meeting with me prenatally can help prepare you for the birth of your
+    child. We will tailor a program to your needs that could include education about
+    childbirth and baby-care, emotional readiness, relaxation techniques or household
+    organization. \n\nPregnancy is a huge physical feat, yet most are not given the
+    tools they need to appropriately and adequately support their body through this
+    process. I believe an empowered pregnancy should include specific education and
+    support for the pregnant body including the core, pelvic floor, upper body mobility,
+    pelvis and body alignment or movement pattern education. Not only can this minimize
+    or even eliminate symptoms and dysfunction that we are often told are “just a\nnormal
+    part of pregnancy,” it also prepares the body for a more efficient birth and a
+    smoother postpartum recovery.\n\nAs a Body Ready Method Certified Professional,
+    I can provide assessments and tools that will help with:\n● Body balancing to
+    help baby find their best position\n● Prenatal aches and pains\n● Pelvic floor
+    dysfunction\n● Core support to minimize issues with abdominal separation and diastasis
+    recti\n● A more efficient birth by optimizing the body during pregnancy\n● A smoother
+    postpartum recovery\n"
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
     positive birth experience, lower Cesarean rates, shorter labors and less medications,
@@ -121,6 +129,8 @@ links:
   url: https://www.facebook.com/harbordoula
 - name: Follow me on Instagram
   url: https://www.instagram.com/jenniferdoula/
+- name: 
+  url: 
 Key: 
 layout: home
 ---
