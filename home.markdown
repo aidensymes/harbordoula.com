@@ -4,13 +4,13 @@ date: 2019-06-16 18:53:00 Z
 permalink: "/"
 blurb: Caring support before, during and after your baby's birth. Serving Boston,
   North Shore and Southern NH.
-about-intro: "I'm Jennifer Symes, CD, PCD(DONA) \nBirth and Postpartum Doula and Body
-  Ready Method Pro. \n\nCongratulations on this new adventure! I look forward to discussing
-  how we can work together to create a nurturing space for you and your family.\n\nIn
-  response to changing policies and safety measures due to covid-19, I am available
-  for virtual services, if needed. We can schedule a full support package, a one time
-  session or something in between. You don't have to face these challenges without
-  preparation and support."
+about-intro: "I'm Jennifer Symes, CD, PCD(DONA) \n\nBirth and Postpartum Doula and
+  Body Ready Method Pro. \n\nCongratulations on this new adventure! I look forward
+  to discussing how we can work together to create a nurturing space for you and your
+  family.\n\nIn response to changing policies and safety measures due to covid-19,
+  I am available for virtual services, if needed. We can schedule a full support package,
+  a one time session or something in between. You don't have to face these challenges
+  without preparation and support."
 about: "Pregnancy, childbirth and the newborn weeks come with great joy, transitions
   and challenges. As your Doula, I can help you find what works best for you and your
   baby. I provide non-judgmental care, education, hands-on support and encouragement
@@ -98,12 +98,16 @@ services:
 - name: Labor and Birth Support
   description: "Studies show that having a Doula has many benefits, such as a more
     positive birth experience, lower Cesarean rates, shorter labors and less medications,
-    including  those to induce labor.  \n\nBirth Doula care is offered as a $1,800
-    package including *2 Prenatal meetings *Phone, text and email support through
-    your pregnancy *Access to my lending library & resources *Assistance with writing
-    a Birth Plan *Preparation for labor, birth and postpartum *24/7 on-call availability
-    starting at 38 weeks gestation *Continuous labor and immediate postpartum support
-    *Postpartum visit \n\n\n  \n\n"
+    including  those to induce labor. \n\nSome of the ways I use my training to support
+    you in labor and birth include:\n● Understanding what your baby is trying to do
+    and the moves to help create space for baby to do it.\n● Deep understanding of
+    birth positions.\n● Hands on balancing and release techniques to help create better
+    baby positioning, space and yield.\n● Creating a safe, warm, trusting environment.
+    \n\nBirth Doula care is offered as a $1,800 package including *2 Prenatal meetings
+    *Phone, text and email support through your pregnancy *Access to my lending library
+    & resources *Assistance with writing a Birth Plan *Preparation for labor, birth
+    and postpartum *24/7 on-call availability starting at 38 weeks gestation *Continuous
+    labor and immediate postpartum support *Postpartum visit \n\n\n  \n\n"
 - name: Postpartum
   description: "Care, when you need it most.\n\nOffering supportive care for new parents
     in your home while you navigate the first weeks with a new baby. My role varies
