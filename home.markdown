@@ -5,7 +5,7 @@ permalink: "/"
 published: false
 blurb: Caring support before, during and after your baby's birth. Serving Boston,
   North Shore and Southern NH.
-about-intro: "I'm Jennifer Symes, CD, PCD(DONA) Birth and Postpartum Doula and Body
+about-intro: "I'm Jennifer Symes, CD, PCD(DONA) \nBirth and Postpartum Doula and Body
   Ready Method Pro. \n\nCongratulations on this new adventure! I look forward to discussing
   how we can work together to create a nurturing space for you and your family.\n\nIn
   response to changing policies and safety measures due to covid-19, I am available
